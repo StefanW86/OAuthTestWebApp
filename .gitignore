@@ -1,0 +1,6 @@
+# Claude Code - lokal bleiben
+.claude/
+CLAUDE.local.md
+
+# Selektiv freigeben (optional, für Teams):
+# !.claude/settings.json
